@@ -33,7 +33,7 @@
 - Dont ignore members in chat trying to get help. 
 - Use common sense 
 - Always be nice to everyone
-  -no matter what
+  - No matter what
 - **PLEASE BE ACTIVE**
 
 
