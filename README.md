@@ -1,10 +1,10 @@
 # SpeedFN-Staff
-# [EZFN Staff Info](https://ezfn.dev)
+# [SpeedFN Staff Info]
 ### Staff Positions
 | Rank  | User | ID |
 | ------------- | ------------- | ------------- |
-| Owner | Lupus | `796410025575710851` |
-| Admin/Trial Admin | Dido<br>Golden<br>Heavy<br>Alex | `259371739262222346`<br>`338837396068106292`<br>`540035716621664277`<br>`574078275232595988` |
+| Owner | OG Freakus | `643303695961948170 ` |
+| Admin/Trial Admin | Crazr<br>Alecico<br>Cody<br>Skyjumper | `699268149756821555`<br>`726740050481512448`<br>`701558062376288396`<br>`755923033905954887` |
 | Sr Mod | Oly<br>Spin | `903128087733092392`<br>`308440976723148800` |
 | Mod | SAITAMA<br>Cubbin<br>Jaybat<br>Eren | `697077584072278016`<br>`851578319060729896`<br>`718985774300659793`<br>`814208173354909746` |
 | Helper | Crazr<br>Kggn<br>Geer<br>Mello<br>Jaws<br>Zitro<br>Bobby<br>Madara | `699268149756821555`<br>`665655267785965568`<br>`421996494447443969`<br>`516473797013012487`<br>`596602874587381770`<br>`213750331413233665`<br>`666331714829942794`<br>`422395701805449236` |
