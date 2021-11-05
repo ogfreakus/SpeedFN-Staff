@@ -50,7 +50,7 @@
 
 
 #### Trial Helper  
- - When you first become staff you become a trial helper, this period will last for 5 days, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in SpeedFN. After this week if the [Staff Manager] and the [Head of recruitment] are happy we will welcome you to the staff team!
+ - When you first become staff you become a trial helper, this period will last for 5 days, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in SpeedFN. After the 5 days, if the [Staff Manager] and the [Head of recruitment] are happy we will welcome you to the staff team! Keep in mind that if you do something that we do not like, you will be kicked off the staff team without an notice
 
 #### Promotions
  - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager] handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator. You can also recieve promotions at any time without warning. You can also be demoted without warning as well.
