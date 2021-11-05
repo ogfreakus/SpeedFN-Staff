@@ -121,3 +121,13 @@ Ban
 - They should ask you if you're sure that you want to do this.
 - If you are sure, tell them "yes."
 - Now you're retired from the staff team.
+---
+#### Staff Rules
+- You can ping the admins (ONLY DO THIS IF YOU NEED HELP WITH SOMETHING)
+- Don't start fights with anyone for any reason (unless they are threatning to nuke the server or something like that)
+- Set a good example
+- Don't ban/kick/mute someone for no reason
+
+---
+#### Server Bans
+Nexy Monkey (I thought it would be best if he wasnt an admin anymore and he didnt like that and went on a rampage. Had to ban him for the safety of the server) Banned by Freakus<br>
