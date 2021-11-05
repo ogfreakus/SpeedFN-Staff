@@ -13,9 +13,9 @@
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Admin: 4<br>
  SR Mod: 2<br>
- Mod: 7<br>
- Helper: 20<br>
- Trial Helper: N/A<br>
+ Mod: 5<br>
+ Helper: 10<br>
+ Trial Helper: 5<br>
  
  ---
 
@@ -50,9 +50,9 @@
 
 
 #### Trial Helper  
- - When you first become staff you become a trial helper, this period will last for one week, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in EZFN. After this week if the [Staff Manager] and the [Head of recruitment] are happy we will welcome you to the staff team!
+ - When you first become staff you become a trial helper, this period will last for 5 days, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in SpeedFN. After this week if the [Staff Manager] and the [Head of recruitment] are happy we will welcome you to the staff team!
 
 #### Promotions
- - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager] handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator.
+ - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager] handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator. You can also recieve promotions at any time without warning. You can also be demoted without warning as well.
 
 ###### Thanks for reading through all this this is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!]
