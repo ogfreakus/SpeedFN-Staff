@@ -3,12 +3,12 @@
 ### Staff Positions
 | Rank  | User | ID |
 | ------------- | ------------- | ------------- |
-| Owner | OG Freakus | `643303695961948170 ` |
+| Owner | Freakus | `643303695961948170 ` |
 | Admin/Trial Admin | Crazr<br>Alecico<br>Cody<br>Skyjumper | `699268149756821555`<br>`726740050481512448`<br>`701558062376288396`<br>`755923033905954887` |
-| Sr Mod | Oly<br>Spin | `903128087733092392`<br>`308440976723148800` |
-| Mod | SAITAMA<br>Cubbin<br>Jaybat<br>Eren | `697077584072278016`<br>`851578319060729896`<br>`718985774300659793`<br>`814208173354909746` |
-| Helper | Crazr<br>Kggn<br>Geer<br>Mello<br>Jaws<br>Zitro<br>Bobby<br>Madara | `699268149756821555`<br>`665655267785965568`<br>`421996494447443969`<br>`516473797013012487`<br>`596602874587381770`<br>`213750331413233665`<br>`666331714829942794`<br>`422395701805449236` |
-| Trial Helper | Melly<br>Freakus<br>Joe Bama | `500394472857665536`<br>`643303695961948170`<br>`799075553583300668` |
+| Sr Mod | Joe<br>Kendrick | `799075553583300668`<br>`560259598578352159` |
+| Mod | Austin<br>Oli<br>Sow<br>Tim | `852707002030227466`<br>`494132077130809354`<br>`856595884945833984`<br>`844680229506514974` |
+| Helper | vaczl<br> | `805863586559033374`<br> |
+| Trial Helper |  |  |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Admin: 4<br>
