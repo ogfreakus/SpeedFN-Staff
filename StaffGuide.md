@@ -56,3 +56,13 @@
  - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager] handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator. You can also recieve promotions at any time without warning. You can also be demoted without warning as well.
 
 ###### Thanks for reading through all this this is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!]
+
+#### Punishments
+- Before appling ANY punsihments, check the users modlogs. Use the command ?ModLogs (User ID)
+- Timelist below
+- 30m(if speaking in any other language other than English in #chat)
+- 2h
+- 6h
+- 12h
+- 24h
+- Ban
