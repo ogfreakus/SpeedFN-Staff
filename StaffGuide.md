@@ -40,13 +40,13 @@
 #### SR roles 
 - Staff Manager: **Cody**
 
-  - The staff managers's job is to be on top of staff to make sure they are doing their job correctly. They are also making sure that all staff are [following the activity rules mentioned above] 
+  - The staff managers's job is to be on top of staff to make sure they are doing their job correctly. They are also making sure that all staff are [following the activity rules mentioned above] They also can promote or demote you too. 
 
 - Head of recruitment: **SkyJumper**
   - Head of recruitment's job is to employ people for helping SpeedFN and managing applications.
 
 - Recruiter & Sr. Mods: **Oli, Kendrick**
-  - Help go through applications 
+  - These people help go through the staff applications and help us decide who will be in the staff team! 
 
 
 #### Trial Helper  
