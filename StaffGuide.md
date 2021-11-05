@@ -11,6 +11,7 @@
 | Trial Helper |  |  |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
+ Owner: 1<br>
  Admin: 4<br>
  SR Mod: 2<br>
  Mod: 5<br>
@@ -18,6 +19,7 @@
  Trial Helper: 5<br>
  
  #### How many of each postion we have now
+ Owner 1/1<br>
  Admin 4/4<br>
  SR Mod 2/2<br>
  Mod 4/5<br>
