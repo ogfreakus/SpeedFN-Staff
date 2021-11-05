@@ -17,7 +17,7 @@
  Helper: 10<br>
  Trial Helper: 5<br>
  
- #How many of each postion we have now
+ #### How many of each postion we have now
  Admin 4/4
  SR Mod 2/2
  Mod 4/5
