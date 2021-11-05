@@ -133,6 +133,8 @@ Ban
 Nexy Monkey (I thought it would be best if he wasnt an admin anymore and he didnt like that and went on a rampage. Had to ban him for the safety of the server) Banned by Freakus<br>
 
 ---
+#### Server Rules
+
 1. Follow Discord's TOS
 https://discordapp.com/terms
 https://discordapp.com/guidelines
