@@ -63,7 +63,7 @@
  - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager] handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator. You can also recieve promotions at any time without warning. You can also be demoted without warning as well.
 
 ###### Thanks for reading through all this this is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!]
-
+---
 #### Punishments
 - Before appling ANY punsihments, check the users modlogs. Use the command ?modlogs (User ID)
 - Timelist below
@@ -110,3 +110,12 @@ Ban
 - Alt accounts that evade punishment (such as mutes or bans). If an alt account is found, ban the alt account and main account (if applicable)
 - Encouraging breaking Discord ToS (betterdiscord or modified clients are okay, as long as no one is using a selfbot or abusing Discord's API. Anything along those lines)
 - 4+ modlogs 
+
+---
+
+#### How to retire
+- Go to #staff-chat and ping an Admin.
+- Tell them you want to retire.
+- They should ask you if you're sure that you want to do this.
+- If you are sure, tell them "yes."
+- Now you're retired from the staff team.
