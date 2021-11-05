@@ -58,7 +58,7 @@
 ###### Thanks for reading through all this this is all important info, in the next day or 2 I will add correct punishments so we are all on the same level. If we also need to update the [Staff Roles Table Let me know!]
 
 #### Punishments
-- Before appling ANY punsihments, check the users modlogs. Use the command ?ModLogs (User ID)
+- Before appling ANY punsihments, check the users modlogs. Use the command ?modlogs (User ID)
 - Timelist below
 - 30m(if speaking in any other language other than English in #chat)
 - 2h
