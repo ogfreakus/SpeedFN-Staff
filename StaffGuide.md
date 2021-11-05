@@ -66,3 +66,40 @@
 - 12h
 - 24h
 - Ban
+
+#### Punishment Guide
+-2 Hour Mute (If they continue after a Verbal Warning)
+- For punishments, refer to the Verbal Warning category 
+
+6, 12, or 24 hour mute (dependent on previous modlogs for each offense)
+- Toxicity or being rude to any member
+- Speaking about or encouraging child harm
+
+2 day mute (Kick if the user has previous advertising mute logs)
+- DM Advertising
+
+3 day mute (if the user has 4 or more modlogs, apply a ban instead)
+- Bigotry, defamatory, or homophobia
+- Encouraging animal cruelty
+- Harassing users in DMs or in the server
+- Making fun of topics such as rape, suicide, harassment, etc
+
+Permanent Mute (Compromised Account) - !scam @user
+- Sending scam links, such as the steam scams or "download my new game"
+ - Kick (Only after the 2 day mute)
+- Direct advertising in DMs (ban if they have a previous kick modlog for advertising)
+
+Ban
+- Previous kick modlog for advertising
+- Posting gore or content that's NSFL
+- Doxxing users
+- Under 13 
+- Sending the Nword (long time users can get a warning instead so they can have a chance to know about the updated rule)
+- NSFW comments or content depreciating minors
+- Sending threats to users/staff in DMs or in the server
+- True scammers or account sellers (this excludes accounts that have been compromised, use the !scam or !scamid cmd)
+- Raiding our server, or encouraging the raid of another server
+- Serious violation of laws
+- Alt accounts that evade punishment (such as mutes or bans). If an alt account is found, ban the alt account and main account (if applicable)
+- Encouraging breaking Discord ToS (betterdiscord or modified clients are okay, as long as no one is using a selfbot or abusing Discord's API. Anything along those lines)
+- 4+ modlogs 
