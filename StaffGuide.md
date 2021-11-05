@@ -17,6 +17,13 @@
  Helper: 10<br>
  Trial Helper: 5<br>
  
+ #How many of each postion we have now
+ Admin 4/4
+ SR Mod 2/2
+ Mod 4/5
+ Helper 1/10
+ Trial Helper 0/5
+ 
  ---
 
 #### Staff activity 
@@ -84,7 +91,7 @@
 - Harassing users in DMs or in the server
 - Making fun of topics such as rape, suicide, harassment, etc
 
-Permanent Mute (Compromised Account) - Do ?ban user reason (trying to scam)
+Permanent Mute (Compromised Account) - Do ?ban (user) reason (trying to scam)
 - Sending scam links, such as the steam scams or "download my new game"
 Kick (Only after the 2 day mute)
 - Direct advertising in DMs (ban if they have a previous kick modlog for advertising)
