@@ -75,7 +75,7 @@
 - Ban
 
 #### Punishment Guide
--2 Hour Mute (If they continue after a Verbal Warning)
+2 Hour Mute (If they continue after a Verbal Warning)
 - For punishments, refer to the Verbal Warning category 
 
 6, 12, or 24 hour mute (dependent on previous modlogs for each offense)
