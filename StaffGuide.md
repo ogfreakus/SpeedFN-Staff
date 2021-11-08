@@ -8,7 +8,7 @@
 | Sr Mod | Joe<br>Kendrick | `799075553583300668`<br>`560259598578352159` |
 | Mod | Austin<br>Oli<br>Sow<br>Tim | `852707002030227466`<br>`494132077130809354`<br>`856595884945833984`<br>`844680229506514974` |
 | Helper | vaczl<br> | `805863586559033374`<br> |
-| Trial Helper | DarkTails | `747204380595322880`<br> |
+| Trial Helper |  |  |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Owner: 1<br>
