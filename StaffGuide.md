@@ -41,15 +41,15 @@
   - Read #staff-guide
 - Dont ignore members in chat trying to get help. 
 - Use common sense 
-- Always be nice to everyone
-  - No matter what
+- If the servers are not working, tell them that they should be up soon, and try to stop them from spamming
+- Always be active.
 - **PLEASE BE ACTIVE**
 
 
 #### SR roles 
 - Staff Manager: **Cody**
 
-  - The staff managers's job is to be on top of staff to make sure they are doing their job correctly. They are also making sure that all staff are [following the activity rules mentioned above] They also can promote or demote you too. 
+  - The job of staff manager is to keep all the staff memebers from doing stuff incorrectly. This means by demoting you if you did something that the admins didn't think was good or something to that effect. Keep in mind that a promote or demote can happen at any time without warning, so please be active in the chat.
 
 - Head of recruitment: **SkyJumper**
   - Head of recruitment's job is to employ people for helping SpeedFN and managing applications.
@@ -60,6 +60,21 @@
 
 #### Trial Helper  
  - When you first become staff you become a trial helper, this period will last for 5 days, in this time you must be active in the help channels and #chat and learn all about how to moderate and help in SpeedFN. After the 5 days, if the [Staff Manager] and the [Head of recruitment] are happy we will welcome you to the staff team! Keep in mind that if you do something that we do not like, you will be kicked off the staff team without an notice
+
+#### Helper
+- You guys will be active wherever someone needs help. Try to help people to the best of your ability. If you do your job well here, you can be promoted to moderator!
+
+
+#### Mod
+- You guys will be keeping the chat clean for everyone and keeping the bad people out of the chat. Also you guys will be helping out the helpers if they have any questions. If the [Helper] have any questions, ask either the [Sr Mod] or one of the [Admin]
+
+
+#### Sr Mod
+- You guys will also be keeping the chat clean for the people, but you guys will also be incharge of punishing the people who try to scam our community. If you see someone trying to send a scam link, kick them because they have probably been token logged, and if they get their account back, they can join back. But if it keeps on happening over and over, just ban them and report their account to discord
+
+
+#### Admin
+- These people are incharge of the server. If you guys disrespect ANY admin (in anyway) you will either 1: be demoted (based off what you did) or 2: be kicked off the staff team and muted for 24 hours and will never be able to be appart of the staff team again. 
 
 #### Promotions
  - Staff promotions are based on two factors. One, The number of staff members in specific groups, and two, Retention and activity. Remember to always be active and you may be promoted in the future! The [Staff Manager] handles promotions, with recommendations from other Administrators. You must go through the ranks one by one. For example, you cannot become a senior moderator when you are a helper. You must first be promoted from helper to moderator, and then be promoted again to senior moderator. You can also recieve promotions at any time without warning. You can also be demoted without warning as well.
