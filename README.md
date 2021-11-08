@@ -1,7 +1,7 @@
 # SpeedFN-Rules
 #### Server Rules
 
-1. Follow Discord's TOS
+1. Follow Discord's TOS<br>
 https://discordapp.com/terms<br>
 https://discordapp.com/guidelines<br>
 
