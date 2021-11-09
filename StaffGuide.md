@@ -7,8 +7,8 @@
 | Admin/Trial Admin | Crazr<br>Alecico<br>Cody<br>Skyjumper | `699268149756821555`<br>`726740050481512448`<br>`701558062376288396`<br>`755923033905954887` |
 | Sr Mod | Joe<br>Kendrick | `799075553583300668`<br>`560259598578352159` |
 | Mod | Austin<br>Oli<br>Sow<br>Tim | `852707002030227466`<br>`494132077130809354`<br>`856595884945833984`<br>`844680229506514974` |
-| Helper | vaczl<br> | `805863586559033374`<br> |
-| Trial Helper |  |  |
+| Helper | vaczl<br> | `805863586559033374` |
+| Trial Helper | Bob | `857796489211150356` |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Owner: 1<br>
@@ -24,7 +24,7 @@
  SR Mod 2/2<br>
  Mod 4/5<br>
  Helper 1/10<br>
- Trial Helper 0/5<br>
+ Trial Helper 1/5<br>
  
  ---
 
