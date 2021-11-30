@@ -4,26 +4,26 @@
 | Rank  | User | ID |
 | ------------- | ------------- | ------------- |
 | Owner | Freakus | `643303695961948170 ` |
-| Admin/Trial Admin | Crazr<br>Alecico<br>Cody<br>Skyjumper | `699268149756821555`<br>`726740050481512448`<br>`701558062376288396`<br>`755923033905954887` |
-| Sr Mod | Joe<br>Kendrick | `799075553583300668`<br>`560259598578352159` |
-| Mod | Austin<br>Oli<br>Sow<br>Tim | `852707002030227466`<br>`494132077130809354`<br>`856595884945833984`<br>`844680229506514974` |
-| Helper | Jayden<br> | `753340166231425054` |
-| Trial Helper | Bob<br> | `857796489211150356` |
+| Admin/Trial Admin | Crazr<br>Alecico<br>Cody<br>Skyjumper<br>Blux | `699268149756821555`<br>`726740050481512448`<br>`701558062376288396`<br>`755923033905954887`<br>`771132177177640970` |
+| Sr Mod | Joe<br>Kendrick<br>Snowy | `799075553583300668`<br>`560259598578352159`<br>`907410219183788083` |
+| Mod | Tim<br>Knight<br>Mina<br>Ice | `844680229506514974`<br>`536612159296372756`<br>`876405526135701574`<br>`873993082717233203` |
+| Helper | Oil<br>Bailey | `494132077130809354`<br>`790003536678879264` |
+| Trial Helper |  |  |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
  Owner: 1<br>
- Admin: 4<br>
- SR Mod: 2<br>
+ Admin: 5<br>
+ SR Mod: 3<br>
  Mod: 5<br>
  Helper: 10<br>
  Trial Helper: 5<br>
  
  #### How many of each postion we have now
  Owner 1/1<br>
- Admin 4/4<br>
- SR Mod 2/2<br>
+ Admin 5/5<br>
+ SR Mod 3/3<br>
  Mod 4/5<br>
- Helper 1/10<br>
+ Helper 2/10<br>
  Trial Helper 1/5<br>
  
  ---
@@ -47,14 +47,14 @@
 
 
 #### SR roles 
-- Staff Manager: **Cody**
+- Staff Manager: **Cody, Freakus, Blux**
 
   - The job of staff manager is to keep all the staff memebers from doing stuff incorrectly. This means by demoting you if you did something that the admins didn't think was good or something to that effect. Keep in mind that a promote or demote can happen at any time without warning, so please be active in the chat.
 
-- Head of recruitment: **SkyJumper**
+- Head of recruitment: **SkyJumper, Freakus**
   - Head of recruitment's job is to employ people for helping SpeedFN and managing applications.
 
-- Recruiter & Sr. Mods: **Oli, Kendrick**
+- Recruiter & Sr. Mods: **Joe, Kendrick, Snowy**
   - These people help go through the staff applications and help us decide who will be in the staff team! 
 
 
