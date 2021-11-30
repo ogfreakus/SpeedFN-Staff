@@ -147,6 +147,7 @@ Ban
 #### Server Bans
 Nexy Monkey (I thought it would be best if he wasnt an admin anymore and he didnt like that and went on a rampage. Had to ban him for the safety of the server) Banned by Freakus<br>
 tovrq (not sure how he joined and threatning to sue us for no reason and a risk for the server as a whole) Banned by Freakus<br>
+AjaxFN (Nuked the server, what you think I wouldn't ban him?)<br>
 
 ---
 #### Server Rules
