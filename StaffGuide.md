@@ -5,9 +5,9 @@
 | ------------- | ------------- | ------------- |
 | Owner | Freakus | `643303695961948170 ` |
 | Admin/Trial Admin | Crazr<br>Alecico<br>Cody<br>Skyjumper<br>Blux | `699268149756821555`<br>`726740050481512448`<br>`701558062376288396`<br>`755923033905954887`<br>`771132177177640970` |
-| Sr Mod | Joe<br>Kendrick<br>Snowy | `799075553583300668`<br>`560259598578352159`<br>`907410219183788083` |
-| Mod | Tim<br>Knight<br>Mina<br>Ice | `844680229506514974`<br>`536612159296372756`<br>`876405526135701574`<br>`873993082717233203` |
-| Helper | Oil<br>Bailey | `494132077130809354`<br>`790003536678879264` |
+| Sr Mod | Joe<br>Kendrick<br>Snowy<br>Knight | `799075553583300668`<br>`560259598578352159`<br>`907410219183788083`<br>`536612159296372756` |
+| Mod | Tim<br>Bailey<br>Mina<br>Ice | `844680229506514974`<br>`790003536678879264`<br>`876405526135701574`<br>`873993082717233203` |
+| Helper | Oil<br> | `494132077130809354`<br>`790003536678879264` |
 | Trial Helper |  |  |
 
 #### MAX Amount of people allowed in each role: **SUBJECT TO CHANGE IN THE FUTURE.**
