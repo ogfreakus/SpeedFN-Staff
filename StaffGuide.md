@@ -6,7 +6,7 @@
 | Owner | Freakus | `643303695961948170 ` |
 | Admin/Trial Admin | Crazr<br>Alecico<br>Knight<br>Skyjumper<br>Blux | `699268149756821555`<br>`726740050481512448`<br>`536612159296372756`<br>`755923033905954887`<br>`771132177177640970` |
 | Sr Mod | Joe<br>Kendrick<br>Snowy<br>Cody | `799075553583300668`<br>`560259598578352159`<br>`907410219183788083`<br>`701558062376288396` |
-| Mod | Tim<br>Bailey<br>Mina<br>Ice<br>Oli | `844680229506514974`<br>`790003536678879264`<br>`876405526135701574`<br>`873993082717233203`<br>`494132077130809354` |
+| Mod | Tim<br>Bailey<br>Mina<br>Oli | `844680229506514974`<br>`790003536678879264`<br>`876405526135701574`<br>`494132077130809354` |
 | Helper |  | |
 | Trial Helper |  |  |
 
@@ -23,7 +23,7 @@
  Admin 5/5<br>
  SR Mod 4/4<br>
  Mod 4/5<br>
- Helper 1/10<br>
+ Helper 0/10<br>
  Trial Helper 0/5<br>
  
  ---
